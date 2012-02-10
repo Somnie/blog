@@ -1,0 +1,3 @@
+rails generate rspec:install
+bundle exec guard init rspec
+bundle exec spork --bootstrap
